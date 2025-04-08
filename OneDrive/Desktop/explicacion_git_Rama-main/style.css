@@ -12,7 +12,6 @@ html{
     background-size: cover;
 }
 
-<<<<<<< HEAD
 header h1 {
     font-size: 2.5rem;
     color: #2e5f34;
@@ -20,8 +19,6 @@ header h1 {
     font-weight: bold;
 }
 
-=======
->>>>>>> 63abd2cb62d78550d29e5eda0198f544388f5939
 header, footer{
     background-color: rgba(231, 231, 77, 0.5);
     padding: 30px;
@@ -53,15 +50,12 @@ nav a:hover{
     box-shadow: 1px 1px 5px 5px rgb(0, 0, 0);
     transform: scale(1.1);
 }
-<<<<<<< HEAD
 main p {
     margin-bottom: 40px; 
     text-align: justify; 
     line-height: 1.9;   
 }
 
-=======
->>>>>>> 63abd2cb62d78550d29e5eda0198f544388f5939
 img{
     width: 100%;
     margin: auto;
@@ -69,22 +63,16 @@ img{
 
 .logo{
     width: 140px;
-<<<<<<< HEAD
    
-=======
->>>>>>> 63abd2cb62d78550d29e5eda0198f544388f5939
 }
 
 .logo img{
     border-radius: 50%;
-<<<<<<< HEAD
     transition: transform 0.3s ease-in-out;
 }
 
 .logo img:hover {
     transform: scale(1.1);
-=======
->>>>>>> 63abd2cb62d78550d29e5eda0198f544388f5939
 }
 
 .row{
@@ -116,7 +104,6 @@ img{
 
 .imagen img{
     
-<<<<<<< HEAD
     border-radius: 50%;
     margin: auto;
 
@@ -127,16 +114,6 @@ img{
     transform: scale(0.7);
 }
 
-=======
-    border-radius: 50%
-    margin: auto;
-   
-}
-.imagen img:hover´{
-    filter: sepia();
-    transform: scale(0.7);
-}
->>>>>>> 63abd2cb62d78550d29e5eda0198f544388f5939
 body{
     margin-left: 40px;
     margin-right: 40px;
@@ -156,7 +133,6 @@ body{
 
 #dife{
     border-radius: 50%;
-<<<<<<< HEAD
 }
 
 .efecto {
@@ -177,6 +153,3 @@ body{
         
     
     
-=======
-}
->>>>>>> 63abd2cb62d78550d29e5eda0198f544388f5939
